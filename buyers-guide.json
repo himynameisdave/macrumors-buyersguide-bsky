@@ -1,0 +1,177 @@
+[
+  {
+    "category": "ios",
+    "buyStatus": "neutral",
+    "productId": "iPhone-15-Pro",
+    "productName": "iPhone 15 Pro",
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/iphone_15_pro_360.png"
+  },
+  {
+    "category": "ios",
+    "buyStatus": "neutral",
+    "productId": "iPhone-15",
+    "productName": "iPhone 15",
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/iphone_15_360.png"
+  },
+  {
+    "category": "ios",
+    "buyStatus": "caution",
+    "productId": "iPhone_SE",
+    "productName": "iPhone SE",
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/iphone_se_2022_380.png"
+  },
+  {
+    "category": "ios",
+    "buyStatus": "DontBuy",
+    "productId": "12-9-iPad-Pro",
+    "productName": "12.9\" iPad Pro",
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/ipad-pro-13-202210-350.png"
+  },
+  {
+    "category": "ios",
+    "buyStatus": "DontBuy",
+    "productId": "11-iPad-Pro",
+    "productName": "11\" iPad Pro",
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/ipad-pro-11-202210-350.png"
+  },
+  {
+    "category": "ios",
+    "buyStatus": "DontBuy",
+    "productId": "iPad-Air",
+    "productName": "iPad Air",
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/ipad_air_2022_342.png"
+  },
+  {
+    "category": "ios",
+    "buyStatus": "DontBuy",
+    "productId": "iPad_Mini",
+    "productName": "iPad Mini",
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/ipad_mini_buyers_250.png"
+  },
+  {
+    "category": "ios",
+    "buyStatus": "caution",
+    "productId": "iPad",
+    "productName": "iPad",
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/ipad-2022-300.png"
+  },
+  {
+    "category": "mac",
+    "buyStatus": "buyNow",
+    "productId": "MacBook_Air",
+    "productName": "13\" MacBook Air",
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/macbook_air_430.png"
+  },
+  {
+    "category": "mac",
+    "buyStatus": "buyNow",
+    "productId": "15-MacBook-Air",
+    "productName": "15\" MacBook Air",
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/macbook-air-15-430.png"
+  },
+  {
+    "category": "mac",
+    "buyStatus": "neutral",
+    "productId": "MacBook_Pro_16",
+    "productName": "14\" & 16\" MacBook Pro",
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/macbook-pro-14-16-540.png"
+  },
+  {
+    "category": "mac",
+    "buyStatus": "buyNow",
+    "productId": "iMac",
+    "productName": "iMac",
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/imac-m3-348.png"
+  },
+  {
+    "category": "mac",
+    "buyStatus": "neutral",
+    "productId": "Mac_Mini",
+    "productName": "Mac Mini",
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/mac_mini_320.png"
+  },
+  {
+    "category": "mac",
+    "buyStatus": "neutral",
+    "productId": "Mac-Studio",
+    "productName": "Mac Studio",
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/mac_studio_342.png"
+  },
+  {
+    "category": "mac",
+    "buyStatus": "neutral",
+    "productId": "Mac_Pro",
+    "productName": "Mac Pro",
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/mac_pro_2019_416.png"
+  },
+  {
+    "category": "music",
+    "buyStatus": "buyNow",
+    "productId": "HomePod",
+    "productName": "HomePod",
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/homepod-2023-300-trans.png"
+  },
+  {
+    "category": "music",
+    "buyStatus": "neutral",
+    "productId": "Homepod-Mini",
+    "productName": "HomePod Mini",
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/homepod_mini_buyers_300.png"
+  },
+  {
+    "category": "music",
+    "buyStatus": "DontBuy",
+    "productId": "AirPods",
+    "productName": "AirPods",
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/airpods_300.png"
+  },
+  {
+    "category": "music",
+    "buyStatus": "buyNow",
+    "productId": "AirPods-Pro",
+    "productName": "AirPods Pro",
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/airpods_pro_480.png"
+  },
+  {
+    "category": "music",
+    "buyStatus": "caution",
+    "productId": "AirPods-Max",
+    "productName": "AirPods Max",
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/airpods_max_480.png"
+  },
+  {
+    "category": "other",
+    "buyStatus": "buyNow",
+    "productId": "AppleVisionPro",
+    "productName": "Vision Pro",
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/vision-pro-400.png"
+  },
+  {
+    "category": "other",
+    "buyStatus": "neutral",
+    "productId": "Apple_Watch",
+    "productName": "Apple Watch",
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/apple_watch_9_pink_300.png"
+  },
+  {
+    "category": "other",
+    "buyStatus": "caution",
+    "productId": "Apple_Watch_SE",
+    "productName": "Apple Watch SE",
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/apple_watch_se_2022_300.png"
+  },
+  {
+    "category": "other",
+    "buyStatus": "neutral",
+    "productId": "Apple_Watch_Ultra",
+    "productName": "Apple Watch Ultra",
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/apple_watch_ultra_2_300.png"
+  },
+  {
+    "category": "other",
+    "buyStatus": "caution",
+    "productId": "Apple_TV",
+    "productName": "Apple TV",
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/apple-tv-4k-300.png"
+  }
+]

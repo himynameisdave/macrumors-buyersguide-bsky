@@ -1,0 +1,30 @@
+{
+  "name": "macrumors-buyersguide-bksy",
+  "version": "1.0.0",
+  "description": "A bot for Bluesky which skeets out any changes to MacRumors' Buyers Guide",
+  "type": "module",
+  "scripts": {
+    "start": "npm run build && node index.js",
+    "lint": "eslint --ext .ts .",
+    "build": "tsc"
+  },
+  "engines": {
+    "node": ">= 18.19.0"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "cheerio": "0.22.0"
+  },
+  "devDependencies": {
+    "@types/cheerio": "^0.22.35",
+    "@types/node": "^20.11.25",
+    "eslint-config-himynameisdave": "^9.0.0",
+    "typescript": "^5.4.2"
+  },
+  "author": {
+    "name": "himynamisdave",
+    "email": "d@velunny.com"
+  },
+  "license": "MIT",
+  "private": true
+}
