@@ -4,9 +4,10 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    # Note that we intentionally do this slightly off the hour,
-    # as other scrapers are more likely to use the exact hour.
-    - cron:  '6 * * * *'
+    # Run at ~7:04am PST every day
+    - cron:  '4 3 * * *'
+    # Run at ~7:04pm PST every day
+    - cron:  '4 15 * * *'
 
 jobs:
   scheduled:
