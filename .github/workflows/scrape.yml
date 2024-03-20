@@ -31,8 +31,8 @@ jobs:
       - name: Build and run
         run: yarn start
         env:
-          BLUESKY_USERNAME: ${{ secrets.BLUESKY_USERNAME }}
-          BLUESKY_PASSWORD: ${{ secrets.BLUESKY_PASSWORD }}
+          BLUESKY_USERNAME: ${{ env.BLUESKY_USERNAME }}
+          BLUESKY_PASSWORD: ${{ env.BLUESKY_PASSWORD }}
 
       # At this point, we may have already done the skeeting part, this just ensures that we update the local data
       - name: Commit and push if it changed
