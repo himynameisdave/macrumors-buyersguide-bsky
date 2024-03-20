@@ -1,4 +1,4 @@
-name: Scrape latest data
+name: Scrape & skeet
 
 permissions:
   contents: write
@@ -27,15 +27,17 @@ jobs:
       - name: Install dependencies
         run: yarn install
 
+      # Note that this will also check if there are changes AND skeet them to Bsky
       - name: Build and run
         run: yarn start
 
+      # At this point, we may have already done the skeeting part, this just ensures that we update the local data
       - name: Commit and push if it changed
         run: |-
           git config user.name "Automated"
           git config user.email "actions@users.noreply.github.com"
           git add -A
           timestamp=$(date -u)
-          git commit -m "Latest data: ${timestamp}" || exit 0
+          git commit -m "📱 Latest data: ${timestamp}" || exit 0
           git pull --rebase origin main
           git push
