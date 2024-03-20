@@ -4,7 +4,7 @@
   "description": "A bot for Bluesky which skeets out any changes to MacRumors' Buyers Guide",
   "type": "module",
   "scripts": {
-    "scraper:start": "npm run build && node dist/scraper/index.js",
+    "start": "npm run build && node dist/scraper/index.js",
     "lint": "eslint --ext .ts .",
     "build": "tsc --outDir ./dist/"
   },
