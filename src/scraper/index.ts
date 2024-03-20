@@ -90,11 +90,16 @@ async function comparePrevious(updatedEntries: Entry[]): Promise<UpdatedEntry[] 
 }
 
 const updatedEntries = (await comparePrevious(entries)) ?? [];
-//  We can start them all concurrently because they are throttled anyway.
-await Promise.all(updatedEntries.map(postUpdateToBlueSky));
 
-// eslint-disable-next-line no-console
-console.log('🦋 The people of Bksy have been informed!');
+if (updatedEntries.length > 0) {
+  //  We can start them all concurrently because they are throttled anyway.
+  await Promise.all(updatedEntries.map(postUpdateToBlueSky));
+  // eslint-disable-next-line no-console
+  console.log('🦋 The people of Bksy have been informed!');
+} else {
+  // eslint-disable-next-line no-console
+  console.log('🌈 No changes detected!');
+}
 
 //  Finally, we can write to file
 //  The next part of the GitHub Action will commit and push the changes.
