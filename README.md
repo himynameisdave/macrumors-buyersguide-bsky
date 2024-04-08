@@ -1,6 +1,10 @@
 <div align="center" margin="0 auto 20px">
   <h1><a href="https://bsky.app/profile/macrumorsbuyguide.bsky.social" target="_blank">@macrumorsbuyguide.bsky.social</a></h1>
   <p style="font-style: italic;">🦋 A bot for Bluesky which skeets out any changes to the MacRumors Buyers Guide</p>
+  <div>
+    <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fhimynameisdave%2Fmacrumors-buyersguide-bksy?ref=badge_shield&issueType=license" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhimynameisdave%2Fmacrumors-buyersguide-bksy.svg?type=shield&issueType=license"/></a>
+    <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fhimynameisdave%2Fmacrumors-buyersguide-bksy?ref=badge_shield&issueType=security" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhimynameisdave%2Fmacrumors-buyersguide-bksy.svg?type=shield&issueType=security"/></a>
+  </div>
 </div>
 
 ---
