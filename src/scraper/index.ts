@@ -39,7 +39,7 @@ async function fetchPageAndParse(url: string): Promise<cheerio.Root> {
   return cheerio.load(data);
 }
 
-const URL = `https://buyersguide.macrumors.com/`;
+const URL = 'https://buyersguide.macrumors.com/';
 const entries: Entry[] = [];
 
 const $ = await fetchPageAndParse(URL);

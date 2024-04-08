@@ -21,7 +21,9 @@ const buyStatusToReadable: Record<BuyStatus, string> = {
 
 const getEmojiAndReadable = (status: BuyStatus): [string, string] => [buyStatusToEmojiMap[status], buyStatusToReadable[status]];
 
-function buildMessage({ entry, prevStatus, nextStatus }: UpdatedEntry): string {
+function buildMessage({
+  entry, prevStatus, nextStatus,
+}: UpdatedEntry): string {
   // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const [_previousEmoji, previousText] = getEmojiAndReadable(prevStatus);
   // eslint-disable-next-line @typescript-eslint/no-unused-vars
