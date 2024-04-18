@@ -78,7 +78,7 @@
   },
   {
     "category": "mac",
-    "buyStatus": "buyNow",
+    "buyStatus": "neutral",
     "productId": "iMac",
     "productName": "iMac",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/imac-m3-348.png"
