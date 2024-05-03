@@ -127,7 +127,7 @@
   },
   {
     "category": "music",
-    "buyStatus": "buyNow",
+    "buyStatus": "neutral",
     "productId": "AirPods-Pro",
     "productName": "AirPods Pro",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/airpods_pro_480.png"
