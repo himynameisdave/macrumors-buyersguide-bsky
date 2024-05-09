@@ -23,23 +23,16 @@
   {
     "category": "ios",
     "buyStatus": "buyNow",
-    "productId": "12-9-iPad-Pro",
-    "productName": "12.9\" iPad Pro",
-    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/ipad-pro-13-202210-350.png"
-  },
-  {
-    "category": "ios",
-    "buyStatus": "buyNow",
-    "productId": "11-iPad-Pro",
-    "productName": "11\" iPad Pro",
-    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/ipad-pro-11-202210-350.png"
+    "productId": "iPad-Pro",
+    "productName": "iPad Pro",
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/ipad-pro-13-350.png"
   },
   {
     "category": "ios",
     "buyStatus": "buyNow",
     "productId": "iPad-Air",
     "productName": "iPad Air",
-    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/ipad_air_2022_342.png"
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/ipad-air-243.png"
   },
   {
     "category": "ios",
