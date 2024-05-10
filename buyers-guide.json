@@ -141,7 +141,7 @@
   },
   {
     "category": "other",
-    "buyStatus": "neutral",
+    "buyStatus": "caution",
     "productId": "Apple_Watch",
     "productName": "Apple Watch",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/apple_watch_9_pink_300.png"
