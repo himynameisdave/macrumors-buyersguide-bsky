@@ -8,14 +8,14 @@
   },
   {
     "category": "ios",
-    "buyStatus": "neutral",
+    "buyStatus": "caution",
     "productId": "iPhone-15",
     "productName": "iPhone 15",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/iphone_15_360.png"
   },
   {
     "category": "ios",
-    "buyStatus": "caution",
+    "buyStatus": "DontBuy",
     "productId": "iPhone_SE",
     "productName": "iPhone SE",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/iphone_se_2022_380.png"
@@ -43,7 +43,7 @@
   },
   {
     "category": "ios",
-    "buyStatus": "DontBuy",
+    "buyStatus": "caution",
     "productId": "iPad",
     "productName": "iPad",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/ipad-2022-300.png"
@@ -155,7 +155,7 @@
   },
   {
     "category": "other",
-    "buyStatus": "neutral",
+    "buyStatus": "caution",
     "productId": "Apple_Watch_Ultra",
     "productName": "Apple Watch Ultra",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/apple_watch_ultra_2_300.png"
