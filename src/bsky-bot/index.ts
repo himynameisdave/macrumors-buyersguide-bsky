@@ -3,7 +3,7 @@ import { RichText, type AppBskyFeedPost, type BskyAgent } from '@atproto/api';
 import loginAndGetAgent from './agent.js';
 import pThrottle from 'p-throttle';
 // import strLength from 'string-length';
-import { BuyStatus } from '../enums.js';
+import { BuyStatus, Category } from '../enums.js';
 import type { UpdatedEntry } from '../scraper/index.js';
 
 // eslint-disable-next-line @typescript-eslint/sort-type-constituents -- This is silly because they are emoji
@@ -21,6 +21,13 @@ const buyStatusToReadable: Record<BuyStatus, string> = {
   [BuyStatus.DontBuy]: '🔴 DON\'T BUY 🔴',
 };
 
+const categoryToEmojiMap: Record<Category, string> = {
+  [Category.IOs]: '📱',
+  [Category.Mac]: '💻',
+  [Category.Music]: '🎧',
+  [Category.Other]: '⌚',
+};
+
 const getEmojiAndReadable = (status: BuyStatus): [string, string] => [buyStatusToEmojiMap[status], buyStatusToReadable[status]];
 
 async function buildPost(agent: BskyAgent, {
@@ -32,7 +39,7 @@ async function buildPost(agent: BskyAgent, {
   const [_previousEmoji, previousText] = getEmojiAndReadable(prevStatus);
   // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const [_nextEmoji, nextText] = getEmojiAndReadable(nextStatus);
-  const updateMessage = `🛒 ${entry.productName} went from\n${previousText}\nto\n${nextText}!`;
+  const updateMessage = `${categoryToEmojiMap[entry.category]} ${entry.productName} went from\n${previousText}\n     to\n${nextText}!`;
   const url = `https://buyersguide.macrumors.com/#${entry.category}`;
   const text = `${updateMessage}
 
