@@ -7,10 +7,14 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    # Run at ~7:04am PST every day
-    - cron:  '4 3 * * *'
-    # Run at ~7:04pm PST every day
-    - cron:  '4 15 * * *'
+    # Run at 5:04am PST
+    - cron: '4 13 * * *'
+    # Run at 11:11am PST
+    - cron: '11 19 * * *'
+    # Run at 5:04pm PST
+    - cron: '4 1 * * *'
+    # Run at 11:11pm PST
+    - cron: '11 7 * * *'
 
 jobs:
   scheduled:

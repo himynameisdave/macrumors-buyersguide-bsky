@@ -11,7 +11,7 @@
 
 A bot for Bluesky which posts ([skeets](https://www.theverge.com/2023/4/27/23701551/bluesky-skeets-now)) out any changes to the [MacRumors Buyers Guide](https://buyersguide.macrumors.com/).
 
-This project uses a variation of [this technique](https://simonwillison.net/2020/Oct/9/git-scraping/) to periodically (twice a day) scrape the MacRumors Buyer's Guide, commit any changes to [this file](https://github.com/himynameisdave/macrumors-buyersguide-bksy/blob/main/buyers-guide.json), then skeet out any changes to [this account](https://bsky.app/profile/macrumorsbuyguide.bsky.social).
+This project uses a variation of [this technique](https://simonwillison.net/2020/Oct/9/git-scraping/) to periodically (four times a day) scrape the MacRumors Buyer's Guide, commit any changes to [this file](https://github.com/himynameisdave/macrumors-buyersguide-bksy/blob/main/buyers-guide.json), then skeet out any changes to [this account](https://bsky.app/profile/macrumorsbuyguide.bsky.social).
 
 ### Developing
 
