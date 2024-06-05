@@ -1,5 +1,5 @@
 /* eslint-disable no-console */
-import { RichText, type AppBskyFeedPost } from '@atproto/api';
+import { RichText, type AppBskyFeedPost, type BskyAgent } from '@atproto/api';
 import loginAndGetAgent from './agent.js';
 import pThrottle from 'p-throttle';
 // import strLength from 'string-length';
@@ -23,11 +23,11 @@ const buyStatusToReadable: Record<BuyStatus, string> = {
 
 const getEmojiAndReadable = (status: BuyStatus): [string, string] => [buyStatusToEmojiMap[status], buyStatusToReadable[status]];
 
-function buildPost({
+async function buildPost(agent: BskyAgent, {
   entry,
   prevStatus,
   nextStatus,
-}: UpdatedEntry): AppBskyFeedPost.Record {
+}: UpdatedEntry): Promise<AppBskyFeedPost.Record> {
   // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const [_previousEmoji, previousText] = getEmojiAndReadable(prevStatus);
   // eslint-disable-next-line @typescript-eslint/no-unused-vars
@@ -38,6 +38,8 @@ function buildPost({
 
 Read more: ${url}`;
   const richText = new RichText({ text });
+  //  This will make the URL into an actual link
+  await richText.detectFacets(agent);
 
   return {
     $type: 'app.bsky.feed.post',
@@ -57,12 +59,12 @@ async function postUpdateToBlueSky({
   prevStatus,
   nextStatus,
 }: UpdatedEntry): Promise<void> {
-  const post = buildPost({
+  const agent = await loginAndGetAgent();
+  const post = await buildPost(agent, {
     entry,
     prevStatus,
     nextStatus,
   });
-  const agent = await loginAndGetAgent();
   console.log('🚀 Posting...');
   await agent.post(post);
   console.log(post.text);
