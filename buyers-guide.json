@@ -85,7 +85,7 @@
   },
   {
     "category": "mac",
-    "buyStatus": "caution",
+    "buyStatus": "DontBuy",
     "productId": "Mac-Studio",
     "productName": "Mac Studio",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/mac_studio_342.png"
