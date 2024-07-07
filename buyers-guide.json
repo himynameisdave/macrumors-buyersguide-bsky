@@ -162,7 +162,7 @@
   },
   {
     "category": "other",
-    "buyStatus": "caution",
+    "buyStatus": "DontBuy",
     "productId": "Apple_TV",
     "productName": "Apple TV",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/apple-tv-4k-300.png"
