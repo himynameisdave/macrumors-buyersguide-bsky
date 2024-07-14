@@ -64,7 +64,7 @@
   },
   {
     "category": "mac",
-    "buyStatus": "neutral",
+    "buyStatus": "caution",
     "productId": "MacBook_Pro_16",
     "productName": "14\" & 16\" MacBook Pro",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/macbook-pro-14-16-540.png"
