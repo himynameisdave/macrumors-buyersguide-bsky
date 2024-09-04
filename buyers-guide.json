@@ -57,14 +57,14 @@
   },
   {
     "category": "mac",
-    "buyStatus": "buyNow",
+    "buyStatus": "neutral",
     "productId": "15-MacBook-Air",
     "productName": "15\" MacBook Air",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/macbook-air-15-430.png"
   },
   {
     "category": "mac",
-    "buyStatus": "caution",
+    "buyStatus": "DontBuy",
     "productId": "MacBook_Pro_16",
     "productName": "14\" & 16\" MacBook Pro",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/macbook-pro-14-16-540.png"
@@ -85,7 +85,7 @@
   },
   {
     "category": "mac",
-    "buyStatus": "DontBuy",
+    "buyStatus": "caution",
     "productId": "Mac-Studio",
     "productName": "Mac Studio",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/mac_studio_342.png"
