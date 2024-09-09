@@ -99,7 +99,7 @@
   },
   {
     "category": "music",
-    "buyStatus": "buyNow",
+    "buyStatus": "neutral",
     "productId": "HomePod",
     "productName": "HomePod",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/homepod-2023-300-trans.png"
