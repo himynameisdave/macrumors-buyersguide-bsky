@@ -127,7 +127,7 @@
   },
   {
     "category": "music",
-    "buyStatus": "caution",
+    "buyStatus": "buyNow",
     "productId": "AirPods-Max",
     "productName": "AirPods Max",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/airpods_max_480.png"
@@ -141,7 +141,7 @@
   },
   {
     "category": "other",
-    "buyStatus": "DontBuy",
+    "buyStatus": "buyNow",
     "productId": "Apple_Watch",
     "productName": "Apple Watch",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/apple_watch_9_pink_300.png"
@@ -155,7 +155,7 @@
   },
   {
     "category": "other",
-    "buyStatus": "DontBuy",
+    "buyStatus": "buyNow",
     "productId": "Apple_Watch_Ultra",
     "productName": "Apple Watch Ultra",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/apple_watch_ultra_2_300.png"
