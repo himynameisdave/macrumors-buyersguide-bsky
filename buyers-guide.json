@@ -113,7 +113,7 @@
   },
   {
     "category": "music",
-    "buyStatus": "DontBuy",
+    "buyStatus": "buyNow",
     "productId": "AirPods",
     "productName": "AirPods",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/airpods_300.png"
