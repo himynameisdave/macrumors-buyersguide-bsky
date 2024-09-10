@@ -1,17 +1,17 @@
 [
   {
     "category": "ios",
-    "buyStatus": "DontBuy",
-    "productId": "iPhone-15-Pro",
-    "productName": "iPhone 15 Pro",
-    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/iphone_15_pro_360.png"
+    "buyStatus": "buyNow",
+    "productId": "iPhone-16-Pro",
+    "productName": "iPhone 16 Pro",
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/iphone_16_pro_360.png"
   },
   {
     "category": "ios",
-    "buyStatus": "DontBuy",
-    "productId": "iPhone-15",
-    "productName": "iPhone 15",
-    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/iphone_15_360.png"
+    "buyStatus": "buyNow",
+    "productId": "iPhone-16",
+    "productName": "iPhone 16",
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/iphone_16_360.png"
   },
   {
     "category": "ios",
@@ -116,7 +116,7 @@
     "buyStatus": "buyNow",
     "productId": "AirPods",
     "productName": "AirPods",
-    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/airpods_300.png"
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/airpods_4_320.png"
   },
   {
     "category": "music",
@@ -130,7 +130,7 @@
     "buyStatus": "buyNow",
     "productId": "AirPods-Max",
     "productName": "AirPods Max",
-    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/airpods_max_480.png"
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/airpods_max_310.png"
   },
   {
     "category": "other",
@@ -144,7 +144,7 @@
     "buyStatus": "buyNow",
     "productId": "Apple_Watch",
     "productName": "Apple Watch",
-    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/apple_watch_9_pink_300.png"
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/apple_watch_10_260.png"
   },
   {
     "category": "other",
@@ -158,7 +158,7 @@
     "buyStatus": "buyNow",
     "productId": "Apple_Watch_Ultra",
     "productName": "Apple Watch Ultra",
-    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/apple_watch_ultra_2_300.png"
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/apple_watch_ultra_2_230.png"
   },
   {
     "category": "other",
