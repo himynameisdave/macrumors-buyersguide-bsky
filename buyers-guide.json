@@ -36,10 +36,10 @@
   },
   {
     "category": "ios",
-    "buyStatus": "DontBuy",
+    "buyStatus": "buyNow",
     "productId": "iPad_Mini",
     "productName": "iPad Mini",
-    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/ipad_mini_buyers_250.png"
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/ipad_mini_buyers_200.png"
   },
   {
     "category": "ios",
@@ -71,7 +71,7 @@
   },
   {
     "category": "mac",
-    "buyStatus": "caution",
+    "buyStatus": "DontBuy",
     "productId": "iMac",
     "productName": "iMac",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/imac-m3-348.png"
