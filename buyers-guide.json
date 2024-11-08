@@ -66,22 +66,22 @@
     "category": "mac",
     "buyStatus": "buyNow",
     "productId": "MacBook_Pro_16",
-    "productName": "14\" & 16\" MacBook Pro",
-    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/macbook-pro-14-16-540.png"
+    "productName": "MacBook Pro",
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/macbook_pro_2024_540.png"
   },
   {
     "category": "mac",
     "buyStatus": "buyNow",
     "productId": "iMac",
     "productName": "iMac",
-    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/imac-m3-348.png"
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/imac_2024_350.png"
   },
   {
     "category": "mac",
     "buyStatus": "buyNow",
     "productId": "Mac_Mini",
     "productName": "Mac Mini",
-    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/mac_mini_320.png"
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/mac_mini_2024_340.png"
   },
   {
     "category": "mac",
