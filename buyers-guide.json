@@ -155,7 +155,7 @@
   },
   {
     "category": "other",
-    "buyStatus": "buyNow",
+    "buyStatus": "neutral",
     "productId": "Apple_Watch_Ultra",
     "productName": "Apple Watch Ultra",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/apple_watch_ultra_2_230.png"
