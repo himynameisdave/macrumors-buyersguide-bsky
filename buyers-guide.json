@@ -15,10 +15,10 @@
   },
   {
     "category": "ios",
-    "buyStatus": "DontBuy",
-    "productId": "iPhone_SE",
-    "productName": "iPhone SE",
-    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/iphone_se_2022_380.png"
+    "buyStatus": "buyNow",
+    "productId": "iPhone-16e",
+    "productName": "iPhone 16e",
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/iphone_16e_305.png"
   },
   {
     "category": "ios",
@@ -29,7 +29,7 @@
   },
   {
     "category": "ios",
-    "buyStatus": "neutral",
+    "buyStatus": "caution",
     "productId": "iPad-Air",
     "productName": "iPad Air",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/ipad-air-243.png"
