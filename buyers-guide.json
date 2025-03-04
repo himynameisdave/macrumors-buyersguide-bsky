@@ -29,7 +29,7 @@
   },
   {
     "category": "ios",
-    "buyStatus": "caution",
+    "buyStatus": "buyNow",
     "productId": "iPad-Air",
     "productName": "iPad Air",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/ipad-air-243.png"
@@ -43,7 +43,7 @@
   },
   {
     "category": "ios",
-    "buyStatus": "caution",
+    "buyStatus": "buyNow",
     "productId": "iPad",
     "productName": "iPad",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/ipad-2022-300.png"
