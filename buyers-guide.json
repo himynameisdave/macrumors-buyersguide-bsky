@@ -64,7 +64,7 @@
   },
   {
     "category": "mac",
-    "buyStatus": "buyNow",
+    "buyStatus": "neutral",
     "productId": "MacBook_Pro_16",
     "productName": "MacBook Pro",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/macbook_pro_2024_540.png"
