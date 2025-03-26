@@ -24,7 +24,7 @@ type Entry = {
 
 export type UpdatedEntry = {
   entry: Entry;
-  prevStatus: BuyStatus;
+  prevStatus?: BuyStatus;
   nextStatus: BuyStatus;
 };
 

@@ -2,7 +2,6 @@
 import { RichText, type AppBskyFeedPost, type BskyAgent } from '@atproto/api';
 import loginAndGetAgent from './agent.js';
 import pThrottle from 'p-throttle';
-// import strLength from 'string-length';
 import { BuyStatus, Category } from '../enums.js';
 import type { UpdatedEntry } from '../scraper/index.js';
 
@@ -30,20 +29,28 @@ const categoryToEmojiMap: Record<Category, string> = {
 
 const getEmojiAndReadable = (status: BuyStatus): [string, string] => [buyStatusToEmojiMap[status], buyStatusToReadable[status]];
 
-async function buildPost(agent: BskyAgent, {
+function getMessage({
   entry,
   prevStatus,
   nextStatus,
-}: UpdatedEntry): Promise<AppBskyFeedPost.Record> {
-  // eslint-disable-next-line @typescript-eslint/no-unused-vars
-  const [_previousEmoji, previousText] = getEmojiAndReadable(prevStatus);
-  // eslint-disable-next-line @typescript-eslint/no-unused-vars
-  const [_nextEmoji, nextText] = getEmojiAndReadable(nextStatus);
-  const updateMessage = `${categoryToEmojiMap[entry.category]} ${entry.productName} went from\n${previousText}\n     to\n${nextText}!`;
+}: UpdatedEntry): string {
+  let updateMessage: string;
+  if (prevStatus === undefined) {
+    updateMessage = `✨ New Product Alert!\n${categoryToEmojiMap[entry.category]} ${entry.productName} is now available!`;
+  } else {
+    const [, previousText] = getEmojiAndReadable(prevStatus);
+    const [, nextText] = getEmojiAndReadable(nextStatus);
+    updateMessage = `${categoryToEmojiMap[entry.category]} ${entry.productName} went from\n${previousText}\n     to\n${nextText}!`;
+  }
+
   const url = `https://buyersguide.macrumors.com/#${entry.category}`;
-  const text = `${updateMessage}
+  return `${updateMessage}
 
 Read more: ${url}`;
+}
+
+async function buildPost(agent: BskyAgent, updatedEntry: UpdatedEntry): Promise<AppBskyFeedPost.Record> {
+  const text = getMessage(updatedEntry);
   const richText = new RichText({ text });
   //  This will make the URL into an actual link
   await richText.detectFacets(agent);
