@@ -13,20 +13,20 @@
     "node": ">= 20.12.1"
   },
   "dependencies": {
-    "@atproto/api": "^0.12.16",
-    "axios": "^1.7.2",
+    "@atproto/api": "^0.14.10",
+    "axios": "^1.8.4",
     "cheerio": "0.22.0",
     "deep-equal": "^2.2.3",
-    "dotenv": "^16.4.5",
-    "p-throttle": "^6.1.0",
+    "dotenv": "^16.4.7",
+    "p-throttle": "^7.0.0",
     "string-length": "^6.0.0"
   },
   "devDependencies": {
     "@types/cheerio": "^0.22.35",
     "@types/deep-equal": "^1.0.4",
-    "@types/node": "^20.14.2",
+    "@types/node": "20.17.27",
     "eslint-config-himynameisdave": "10.0.0-alpha.0",
-    "typescript": "^5.4.5"
+    "typescript": "^5.8.2"
   },
   "author": {
     "name": "himynamisdave",

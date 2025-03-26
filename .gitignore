@@ -89,3 +89,5 @@ web_modules/
 
 index.js
 dist/
+
+*.DS_Store
