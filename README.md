@@ -27,9 +27,15 @@ If you want to simply run the scraper, you can build and run it via:
 ```bash
 yarn start
 # OR
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhimynameisdave%2Fmacrumors-buyersguide-bksy.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhimynameisdave%2Fmacrumors-buyersguide-bksy?ref=badge_shield)
+
 npm start
 ```
 
 ### Contributing
 
 Issues and pull requests are happily accepted. Take care to adhere to the [styleguide](https://github.com/himynameisdave/eslint-config-himynameisdave).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhimynameisdave%2Fmacrumors-buyersguide-bksy.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhimynameisdave%2Fmacrumors-buyersguide-bksy?ref=badge_large)
