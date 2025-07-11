@@ -50,7 +50,7 @@
   },
   {
     "category": "mac",
-    "buyStatus": "buyNow",
+    "buyStatus": "neutral",
     "productId": "MacBook_Air",
     "productName": "13\" MacBook Air",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/macbook_air_430.png"
@@ -64,7 +64,7 @@
   },
   {
     "category": "mac",
-    "buyStatus": "neutral",
+    "buyStatus": "caution",
     "productId": "MacBook_Pro_16",
     "productName": "MacBook Pro",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/macbook_pro_2024_540.png"
