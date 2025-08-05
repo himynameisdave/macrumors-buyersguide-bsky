@@ -148,14 +148,14 @@
   },
   {
     "category": "other",
-    "buyStatus": "caution",
+    "buyStatus": "DontBuy",
     "productId": "Apple_Watch_SE",
     "productName": "Apple Watch SE",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/apple_watch_se_2022_300.png"
   },
   {
     "category": "other",
-    "buyStatus": "neutral",
+    "buyStatus": "DontBuy",
     "productId": "Apple_Watch_Ultra",
     "productName": "Apple Watch Ultra",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/apple_watch_ultra_2_230.png"
