@@ -43,7 +43,7 @@
   },
   {
     "category": "ios",
-    "buyStatus": "buyNow",
+    "buyStatus": "neutral",
     "productId": "iPad",
     "productName": "iPad",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/ipad-2022-300.png"
