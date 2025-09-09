@@ -148,7 +148,7 @@
   },
   {
     "category": "other",
-    "buyStatus": "DontBuy",
+    "buyStatus": "buyNow",
     "productId": "Apple_Watch_SE",
     "productName": "Apple Watch SE",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/apple_watch_se_2022_300.png"
