@@ -1,17 +1,24 @@
 [
   {
     "category": "ios",
-    "buyStatus": "DontBuy",
-    "productId": "iPhone-16-Pro",
-    "productName": "iPhone 16 Pro",
-    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/iphone_16_pro_360.png"
+    "buyStatus": "buyNow",
+    "productId": "iPhone-Air",
+    "productName": "iPhone Air",
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/iphone_air_400.png"
   },
   {
     "category": "ios",
-    "buyStatus": "DontBuy",
-    "productId": "iPhone-16",
-    "productName": "iPhone 16",
-    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/iphone_16_360.png"
+    "buyStatus": "buyNow",
+    "productId": "iPhone-17-Pro",
+    "productName": "iPhone 17 Pro",
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/iphone_17_pro_360.png"
+  },
+  {
+    "category": "ios",
+    "buyStatus": "buyNow",
+    "productId": "iPhone-17",
+    "productName": "iPhone 17",
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/iphone_17_360.png"
   },
   {
     "category": "ios",
@@ -123,7 +130,7 @@
     "buyStatus": "buyNow",
     "productId": "AirPods-Pro",
     "productName": "AirPods Pro",
-    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/airpods_pro_480.png"
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/airpods_pro_3_480.png"
   },
   {
     "category": "music",
@@ -144,21 +151,21 @@
     "buyStatus": "buyNow",
     "productId": "Apple_Watch",
     "productName": "Apple Watch",
-    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/apple_watch_10_260.png"
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/watch_11_300.png"
   },
   {
     "category": "other",
     "buyStatus": "buyNow",
     "productId": "Apple_Watch_SE",
     "productName": "Apple Watch SE",
-    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/apple_watch_se_2022_300.png"
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/watch_se3_300.png"
   },
   {
     "category": "other",
     "buyStatus": "buyNow",
     "productId": "Apple_Watch_Ultra",
     "productName": "Apple Watch Ultra",
-    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/apple_watch_ultra_2_230.png"
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/watch_ultra_3_300.png"
   },
   {
     "category": "other",
