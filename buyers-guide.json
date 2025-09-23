@@ -22,7 +22,7 @@
   },
   {
     "category": "ios",
-    "buyStatus": "buyNow",
+    "buyStatus": "neutral",
     "productId": "iPhone-16e",
     "productName": "iPhone 16e",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/iphone_16e_305.png"
@@ -113,7 +113,7 @@
   },
   {
     "category": "music",
-    "buyStatus": "caution",
+    "buyStatus": "DontBuy",
     "productId": "Homepod-Mini",
     "productName": "HomePod Mini",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/homepod_mini_buyers_300.png"
