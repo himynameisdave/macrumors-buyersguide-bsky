@@ -141,7 +141,7 @@
   },
   {
     "category": "other",
-    "buyStatus": "neutral",
+    "buyStatus": "DontBuy",
     "productId": "AppleVisionPro",
     "productName": "Vision Pro",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/vision-pro-400.png"
