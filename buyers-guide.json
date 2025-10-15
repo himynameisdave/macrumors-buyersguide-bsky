@@ -29,7 +29,7 @@
   },
   {
     "category": "ios",
-    "buyStatus": "DontBuy",
+    "buyStatus": "buyNow",
     "productId": "iPad-Pro",
     "productName": "iPad Pro",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/ipad-pro-13-350.png"
@@ -71,7 +71,7 @@
   },
   {
     "category": "mac",
-    "buyStatus": "DontBuy",
+    "buyStatus": "buyNow",
     "productId": "MacBook_Pro_16",
     "productName": "MacBook Pro",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/macbook_pro_2024_540.png"
@@ -141,7 +141,7 @@
   },
   {
     "category": "other",
-    "buyStatus": "DontBuy",
+    "buyStatus": "buyNow",
     "productId": "AppleVisionPro",
     "productName": "Vision Pro",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/vision-pro-400.png"
