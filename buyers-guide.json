@@ -78,7 +78,7 @@
   },
   {
     "category": "mac",
-    "buyStatus": "neutral",
+    "buyStatus": "caution",
     "productId": "iMac",
     "productName": "iMac",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/imac_2024_350.png"
