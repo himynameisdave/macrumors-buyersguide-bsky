@@ -134,7 +134,7 @@
   },
   {
     "category": "music",
-    "buyStatus": "buyNow",
+    "buyStatus": "neutral",
     "productId": "AirPods-Max",
     "productName": "AirPods Max",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/airpods_max_310.png"
