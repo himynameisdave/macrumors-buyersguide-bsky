@@ -22,7 +22,7 @@
   },
   {
     "category": "ios",
-    "buyStatus": "neutral",
+    "buyStatus": "caution",
     "productId": "iPhone-16e",
     "productName": "iPhone 16e",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/iphone_16e_305.png"
@@ -64,14 +64,14 @@
   },
   {
     "category": "mac",
-    "buyStatus": "neutral",
+    "buyStatus": "caution",
     "productId": "15-MacBook-Air",
     "productName": "15\" MacBook Air",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/macbook-air-15-430.png"
   },
   {
     "category": "mac",
-    "buyStatus": "buyNow",
+    "buyStatus": "caution",
     "productId": "MacBook_Pro_16",
     "productName": "MacBook Pro",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/macbook_pro_2024_540.png"
@@ -99,7 +99,7 @@
   },
   {
     "category": "mac",
-    "buyStatus": "neutral",
+    "buyStatus": "caution",
     "productId": "Mac_Pro",
     "productName": "Mac Pro",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/mac_pro_2019_416.png"
