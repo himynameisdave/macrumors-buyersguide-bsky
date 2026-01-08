@@ -148,7 +148,7 @@
   },
   {
     "category": "other",
-    "buyStatus": "buyNow",
+    "buyStatus": "neutral",
     "productId": "Apple_Watch",
     "productName": "Apple Watch",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/watch_11_300.png"
