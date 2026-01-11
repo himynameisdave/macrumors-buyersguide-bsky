@@ -8,14 +8,14 @@
   },
   {
     "category": "ios",
-    "buyStatus": "buyNow",
+    "buyStatus": "neutral",
     "productId": "iPhone-17-Pro",
     "productName": "iPhone 17 Pro",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/iphone_17_pro_360.png"
   },
   {
     "category": "ios",
-    "buyStatus": "buyNow",
+    "buyStatus": "neutral",
     "productId": "iPhone-17",
     "productName": "iPhone 17",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/iphone_17_360.png"
