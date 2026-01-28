@@ -57,7 +57,7 @@
   },
   {
     "category": "mac",
-    "buyStatus": "caution",
+    "buyStatus": "DontBuy",
     "productId": "MacBook_Air",
     "productName": "13\" MacBook Air",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/macbook_air_430.png"
