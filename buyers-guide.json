@@ -29,7 +29,7 @@
   },
   {
     "category": "mac",
-    "buyStatus": "neutral",
+    "buyStatus": "caution",
     "productId": "Mac_Mini",
     "productName": "Mac Mini",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/mac_mini_2024_340.png"
