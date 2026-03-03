@@ -8,7 +8,7 @@
   },
   {
     "category": "mac",
-    "buyStatus": "DontBuy",
+    "buyStatus": "buyNow",
     "productId": "15-MacBook-Air",
     "productName": "15\" MacBook Air",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/macbook-air-15-430.png"
