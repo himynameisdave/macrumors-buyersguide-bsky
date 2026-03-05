@@ -3,15 +3,8 @@
     "category": "mac",
     "buyStatus": "buyNow",
     "productId": "MacBook_Air",
-    "productName": "13\" MacBook Air",
-    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/macbook_air_430.png"
-  },
-  {
-    "category": "mac",
-    "buyStatus": "buyNow",
-    "productId": "15-MacBook-Air",
-    "productName": "15\" MacBook Air",
-    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/macbook-air-15-430.png"
+    "productName": "MacBook Air",
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/macbook-air-460.png"
   },
   {
     "category": "mac",
