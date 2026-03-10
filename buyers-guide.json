@@ -2,6 +2,13 @@
   {
     "category": "mac",
     "buyStatus": "buyNow",
+    "productId": "MacBookNeo",
+    "productName": "MacBook Neo",
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/macbook-neo-600.png"
+  },
+  {
+    "category": "mac",
+    "buyStatus": "buyNow",
     "productId": "MacBook_Air",
     "productName": "MacBook Air",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/macbook-air-460.png"
