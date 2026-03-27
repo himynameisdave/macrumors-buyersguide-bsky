@@ -43,7 +43,7 @@
   },
   {
     "category": "mac",
-    "buyStatus": "caution",
+    "buyStatus": "DontBuy",
     "productId": "Mac_Pro",
     "productName": "Mac Pro",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/mac_pro_2019_416.png"
