@@ -21,10 +21,11 @@ const buyStatusToReadable: Record<BuyStatus, string> = {
 };
 
 const categoryToEmojiMap: Record<Category, string> = {
-  [Category.IOs]: '📱',
+  [Category.IPhone]: '📱',
+  [Category.IPad]: '📱',
   [Category.Mac]: '💻',
-  [Category.Music]: '🎧',
-  [Category.Other]: '⌚',
+  [Category.Wearables]: '⌚',
+  [Category.HomeAccessories]: '🏠',
 };
 
 const getEmojiAndReadable = (status: BuyStatus): [string, string] => [buyStatusToEmojiMap[status], buyStatusToReadable[status]];

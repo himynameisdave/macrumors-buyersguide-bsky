@@ -1,8 +1,9 @@
 export enum Category {
-  IOs = 'ios',
+  IPhone = 'iphone',
+  IPad = 'ipad',
   Mac = 'mac',
-  Music = 'music',
-  Other = 'other',
+  Wearables = 'wearables',
+  HomeAccessories = 'homeaccessories',
 }
 
 export enum BuyStatus {
