@@ -64,7 +64,7 @@
   },
   {
     "category": "mac",
-    "buyStatus": "buyNow",
+    "buyStatus": "neutral",
     "productId": "MacBook_Air",
     "productName": "MacBook Air",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/macbook-air-460.png"
