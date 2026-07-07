@@ -113,7 +113,7 @@
   },
   {
     "category": "wearables",
-    "buyStatus": "buyNow",
+    "buyStatus": "neutral",
     "productId": "Apple_Watch_SE",
     "productName": "Apple Watch SE",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/watch_se3_300.png"
