@@ -1,14 +1,12 @@
 [
   {
     "category": "iphone",
-    "buyStatus": "caution",
     "productId": "iPhone-Duo",
     "productName": "iPhone Duo",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/iphone_duo_360.png"
   },
   {
     "category": "iphone",
-    "buyStatus": "caution",
     "productId": "iPhone-18-Pro",
     "productName": "iPhone 18 Pro",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/iphone_18_pro_360.png"
@@ -43,7 +41,7 @@
   },
   {
     "category": "ipad",
-    "buyStatus": "buyNow",
+    "buyStatus": "neutral",
     "productId": "iPad-Air",
     "productName": "iPad Air",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/ipad-air-243.png"
