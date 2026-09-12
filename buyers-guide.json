@@ -7,6 +7,7 @@
   },
   {
     "category": "iphone",
+    "buyStatus": "buyNow",
     "productId": "iPhone-18-Pro",
     "productName": "iPhone 18 Pro",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/iphone_18_pro_360.png"
