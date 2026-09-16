@@ -35,7 +35,7 @@
   },
   {
     "category": "ipad",
-    "buyStatus": "neutral",
+    "buyStatus": "caution",
     "productId": "iPad-Pro",
     "productName": "iPad Pro",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/ipad-pro-13-350.png"
