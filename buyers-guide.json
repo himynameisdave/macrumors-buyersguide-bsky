@@ -182,14 +182,14 @@
   },
   {
     "category": "homeaccessories",
-    "buyStatus": "DontBuy",
+    "buyStatus": "buyNow",
     "productId": "Homepod-Mini",
     "productName": "HomePod Mini",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/homepod_mini_buyers_300.png"
   },
   {
     "category": "homeaccessories",
-    "buyStatus": "DontBuy",
+    "buyStatus": "buyNow",
     "productId": "Apple_TV",
     "productName": "Apple TV",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/apple-tv-4k-300.png"
