@@ -162,6 +162,13 @@
   {
     "category": "homeaccessories",
     "buyStatus": "buyNow",
+    "productId": "HomeView",
+    "productName": "HomeView",
+    "productImageURL": "https://images.macrumors.com/images-new/buyers-products/homeview_300-2.png"
+  },
+  {
+    "category": "homeaccessories",
+    "buyStatus": "buyNow",
     "productId": "Displays",
     "productName": "Displays",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/studio-display-600.png"
