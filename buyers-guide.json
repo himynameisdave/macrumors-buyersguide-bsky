@@ -1,6 +1,7 @@
 [
   {
     "category": "iphone",
+    "buyStatus": "buyNow",
     "productId": "iPhone-Duo",
     "productName": "iPhone Duo",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/iphone_duo_360.png"
@@ -63,7 +64,7 @@
   },
   {
     "category": "mac",
-    "buyStatus": "buyNow",
+    "buyStatus": "neutral",
     "productId": "MacBookNeo",
     "productName": "MacBook Neo",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/macbook-neo-600.png"
