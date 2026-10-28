@@ -50,6 +50,7 @@
   },
   {
     "category": "ipad",
+    "buyStatus": "buyNow",
     "productId": "iPad_Mini",
     "productName": "iPad Mini",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/ipad_mini_buyers_200.png"
@@ -77,12 +78,14 @@
   },
   {
     "category": "mac",
+    "buyStatus": "buyNow",
     "productId": "MacBook_Pro_16",
     "productName": "MacBook Pro",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/macbook_pro_2024_540.png"
   },
   {
     "category": "mac",
+    "buyStatus": "buyNow",
     "productId": "iMac",
     "productName": "iMac",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/imac_2024_350.png"
