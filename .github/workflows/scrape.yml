@@ -5,6 +5,7 @@ permissions:
 
 on:
   push:
+    branches: [main]
   workflow_dispatch:
   schedule:
     # Run at 5:04am PST
