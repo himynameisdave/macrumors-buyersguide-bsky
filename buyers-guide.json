@@ -15,21 +15,21 @@
   },
   {
     "category": "iphone",
-    "buyStatus": "neutral",
+    "buyStatus": "caution",
     "productId": "iPhone-17",
     "productName": "iPhone 17",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/iphone_17_360.png"
   },
   {
     "category": "iphone",
-    "buyStatus": "neutral",
+    "buyStatus": "caution",
     "productId": "iPhone-Air",
     "productName": "iPhone Air",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/iphone_air_400.png"
   },
   {
     "category": "iphone",
-    "buyStatus": "neutral",
+    "buyStatus": "caution",
     "productId": "iPhone-17e",
     "productName": "iPhone 17e",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/iphone-17e-360.png"
@@ -64,7 +64,7 @@
   },
   {
     "category": "mac",
-    "buyStatus": "neutral",
+    "buyStatus": "caution",
     "productId": "MacBookNeo",
     "productName": "MacBook Neo",
     "productImageURL": "https://images.macrumors.com/images-new/buyers-products/macbook-neo-600.png"
