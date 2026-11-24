@@ -18,7 +18,7 @@
     "deep-equal": "^2.2.3",
     "dotenv": "^16.4.7",
     "p-throttle": "^7.0.0",
-    "playwright": "^1.60.0",
+    "playwright": "^1.65.1",
     "string-length": "^6.0.0"
   },
   "devDependencies": {
